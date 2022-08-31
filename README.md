@@ -1,3 +1,5 @@
 # PersonalityDisorderAnalyzer
 Mental Illness &amp; Personality Disorder Multiphasic Python Percentile Analyzer
 liken to the eponymous Minnesota Multiphasic Test. This program is not responsible for any legitimate diagnosis or analysis, and should only be used as speculative analysis of what level of disorder and illness may be present in the individual at the current time. All criteria analyzed is taken directly from DSM-V (Diagnostic statistic manual of mental illness version five)
+
+currently supports BPD (Borderline Personality Disorder) criteria analysis as well as Delusion (false belief). These criteria are limited due to the complexities required of proper analysis and contextual historical knowledge of the patient and their relationship with family, socio-cultural-economic background etc. This will be theoretically resolved in time, as a result this is and most likely always will be a work-in-progress! I am not a licensed mental health specialist nor a clinician but I have been independently studying psychology out of pure interest from the age of 12. (16ish years)
